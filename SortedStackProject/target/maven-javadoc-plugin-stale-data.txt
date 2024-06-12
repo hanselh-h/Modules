@@ -1,0 +1,49 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SortedStackProject 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SortedStackProject 1.0-SNAPSHOT API'
+'/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/src/main/java/SortedStack.java'
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/src/main/java/SortedStack.java = 1717701193821
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/src/main/java = 1717701198000
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/tag-search-index.js = 1717701587753
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/overview-tree.html = 1717701587736
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/module-search-index.js = 1717701587752
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/index.html = 1717701587768
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/package-search-index.js = 1717701587753
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/jquery-ui.overrides.css = 1717701587784
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/SortedStack.html = 1717701587701
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/package-use.html = 1717701587733
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/index-all.html = 1717701587767
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/allpackages-index.html = 1717701587751
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/member-search-index.js = 1717701587753
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/script.js = 1717701587780
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/stylesheet.css = 1717701587779
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/help-doc.html = 1717701587777
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/package-summary.html = 1717701587710
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/package-tree.html = 1717701587718
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/element-list = 1717701587702
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/allclasses-index.html = 1717701587749
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/type-search-index.js = 1717701587753
+/Users/hanselheredia/Desktop/Homework/CSC 63010/NewFolder/SortedStackProject/target/site/apidocs/search.js = 1717701587781
