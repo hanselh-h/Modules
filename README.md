@@ -17,6 +17,40 @@ The SortedStackProject is a simple Java application that reads a list of integer
 - Maven (for building the project)
 - A terminal or command prompt
 - Git (for cloning the repository)
+## Usage
+
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/yourusername/SortedStack.git
+    cd SortedStack
+    ```
+
+2. **Compile the Program:**
+    ```bash
+    javac SortedStack.java
+    ```
+
+3. **Run the Program:**
+    ```bash
+    java SortedStack
+    ```
+
+4. **Example:**
+    ```
+    Enter a list of integers, separated by spaces, and press enter when done:
+    5 3 8 1 9
+    Sorted stack: [1, 3, 5, 8, 9]
+    ```
+
+## Javadoc Generation
+
+To generate Javadoc for the SortedStack program, follow these steps:
+
+Generate Javadoc:
+
+javadoc -d doc SortedStack.java
+Open the Generated Documentation:
+Open the index.html file located in the doc directory in your web browser to view the Javadoc.
 
 # SortedLinkedList- Module 4
 ## Overview 
