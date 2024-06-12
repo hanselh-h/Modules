@@ -18,16 +18,42 @@ The SortedStackProject is a simple Java application that reads a list of integer
 - A terminal or command prompt
 - Git (for cloning the repository)
 
-
-### SortedLinkedList- Module 4
-
+# SortedLinkedList- Module 4
+## Overview 
 This Java program allows users to enter a list of integers, which are then sorted and displayed using a linked list. The program utilizes the LinkedList and Collections classes from the Java standard library to manage and sort the integers.
 
-Features
+## Features
 
 Accepts a list of integers from user input.
 Stores the integers in a LinkedList.
 Sorts the integers in ascending order.
 Displays the sorted list.
 
+## Running Project
+## Step 1: Clone the Repository
+git clone https://github.com/your-username/SortedLinkedList.git
+cd SortedLinkedList
+## Step 2: Compile the Java Program
+javac SortedLinkedList.java
+## Step 3: Run the Program
+java SortedLinkedList
+## Step 4: Enter the List of Integers
+You will be prompted to enter a list of integers separated by spaces. Press enter when done.
+Enter a list of integers, separated by spaces, and press enter when done:
+3 1 4 1 5 9 2 6 5 3 5
+## Step 5: View the Sorted List
+The program will output the sorted list of integers.
+Sorted linked list: [1, 1, 2, 3, 3, 4, 5, 5, 5, 6, 9]
+
+## Generating Javadoc Documentation
+## Step 1: Generate Javadoc
+
+javadoc -d doc SortedLinkedList.java
+This command will create a doc directory containing the generated HTML documentation.
+
+## Step 2: View the Documentation
+Open the index.html file located in the doc directory in your web browser to view the documentation.
+open doc/index.html  # On macOS
+xdg-open doc/index.html  # On Linux
+start doc\index.html  # On Windows
 
